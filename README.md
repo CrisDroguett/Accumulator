@@ -1,0 +1,2 @@
+# Accumulator
+Accumulator Integration Layout
